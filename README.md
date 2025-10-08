@@ -1,14 +1,13 @@
 # 📘 Assignment II: Database Creation, Deletion & OEM
 
-**Student Name:** Ruterana Gloire  
-**Username:** Gloire_plsqlauca_27717  
+**Student Name:** Ruterana Gloire   
 **Student ID:** 27717  
 **Course:** PL/SQL Language  
-**Instructor:** [Insert Instructor Name]  
+
 
 ---
 
-## 🧩 Overview
+##  Overview
 
 This assignment covers:
 1. Creating a new Pluggable Database (PDB)
@@ -34,7 +33,7 @@ ALTER PLUGGABLE DATABASE gl_pdb_27717 OPEN;
 ![](/images/creating.jpeg)
 
 ## Task 2: Create and Delete Another PDB
-### 🔹 SQL Commands
+###  SQL Commands
 ```sql
 CREATE PLUGGABLE DATABASE gl_to_delete_pdb_27717 
 ADMIN USER Gloire_plsqlauca_27717 IDENTIFIED BY 2244 
@@ -71,6 +70,7 @@ https://localhost:5500/em
 ![](images/dash.jpeg)
 
 # ownership of the Db
-![](images/dashboard.jpeg)
+![](images/dashboard.png)
+
 
 
