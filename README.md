@@ -71,6 +71,10 @@ https://localhost:5500/em
 
 # ownership of the Db
 ![](images/dashboard.jpeg)
+## Author
+Ruterana Gloire
 
+email: ruterana47@gmail.com
+Feel free to reach out (:
 
 
