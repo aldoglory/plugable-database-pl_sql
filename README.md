@@ -31,7 +31,7 @@ FILE_NAME_CONVERT=('C:\app\oracle\oradata\FREE\pdbseed\', 'C:\app\oracle\oradata
 ALTER PLUGGABLE DATABASE gl_pdb_27717 OPEN;
 ```
 ### Expected output
-![](/images/creating pdb.JPeg)
+![](/images/creating.jpeg)
 
 ## Task 2: Create and Delete Another PDB
 ### 🔹 SQL Commands
@@ -52,8 +52,25 @@ SHOW PDBS;
 
 
 ```
+### Expected output
+![](images/pdb.jpeg)
 
 ## Task 3: Oracle Enterprise Manager (OEM)
 
 After creating and deleting the PDBs, OEM was configured and accessed successfully.
+ ## Open Oracle Enterprise Manager in Browser
+
+# Open your browser (Chrome / Edge).
+
+# Enter this URL:
+```
+https://localhost:5500/em
+
+```
+### Expected Dashboard 
+![](images/dash.jpeg)
+
+# ownership of the Db
+![](images/dashboard.jpeg)
+
 
