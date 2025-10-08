@@ -1,4 +1,4 @@
-# 📘 Assignment II: Database Creation, Deletion & OEM
+# Database Creation, Deletion & OEM
 
 **Student Name:** Ruterana Gloire   
 **Student ID:** 27717  
