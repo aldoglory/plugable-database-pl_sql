@@ -67,10 +67,10 @@ https://localhost:5500/em
 
 ```
 ### Expected Dashboard 
-![](images/dash.jpeg)
+![](images/dash.png)
 
 # ownership of the Db
-![](images/dashboard.png)
+![](images/dashboard.jpeg)
 
 
 
