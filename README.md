@@ -31,6 +31,7 @@ FILE_NAME_CONVERT=('C:\app\oracle\oradata\FREE\pdbseed\', 'C:\app\oracle\oradata
 ALTER PLUGGABLE DATABASE gl_pdb_27717 OPEN;
 ```
 ### Expected output
+![](/images/creating pdb.JPeg)
 
 ## Task 2: Create and Delete Another PDB
 ### 🔹 SQL Commands
